@@ -1,2 +1,3 @@
-# shorthand
-Gregg shorthand recognition and translation
+# Shorthand
+
+Gregg shorthand recognition and translation.
