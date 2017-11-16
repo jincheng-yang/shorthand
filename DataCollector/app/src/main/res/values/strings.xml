@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Data Collector</string>
+
+    <string name="edit_message">Teddy</string>
+    <string name="button_save">Save</string>
+    <string name="chooser_title">Open in</string>
+</resources>
