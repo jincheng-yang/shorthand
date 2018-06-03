@@ -16,9 +16,9 @@ public class Sketch extends PApplet {
     JSONArray figures;
     int pointCount = 0;
     int figureCount = 0;
-    static String[] strokes = {"t", "d", "t-d blend", "n", "m", "n-m blend", "u", "k", "g", "o", "r", "l", "left s", "p", "b", "right s", "f", "v", "sh", "ch", "sh-ch blend"};
-    static int canvasWidth = 984;
-    static int canvasHeight = 1185;
+    static String[] strokes = {"t", "d", "t-d blend", "n", "m", "n-m blend", "u", "k", "g", "o", "r", "l", "left s", "p", "b", "right s", "f", "v", "sh", "ch", "j", "left th", "n-t blend", "m-d blend", "right th", "t-n blend", "d-m blend", "x", "reverse a", "reverse e", "dot", "ng", "nk", "kr", "gl", "kl", "gr", "rk", "lk", "pr", "pl", "br", "bl", "fr", "fl"};
+    public static int canvasWidth = 984;
+    public static int canvasHeight = 1185;
 
     public void settings() {
         size(canvasWidth, canvasHeight);
